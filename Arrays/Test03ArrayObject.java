@@ -4,7 +4,11 @@ class Test03ArrayObject {
 long[] Num= {};
 	public static void main(String[]args){
 
+<<<<<<< HEAD
 //two ways to create array object
+=======
+//three ways to create array object
+>>>>>>> 69941b9f5013c65fd1a8c45e9a44c8c8e04fe359
 	int [] a1= new int[5];
 		System.out.println(a1.length);
 	int [] a3= {1,3,4,5,6};
