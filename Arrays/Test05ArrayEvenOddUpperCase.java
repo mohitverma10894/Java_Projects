@@ -1,4 +1,4 @@
-package Array;
+
 
 public class Test05ArrayEvenOddUpperCase {
 	public static void main(String []args) {
