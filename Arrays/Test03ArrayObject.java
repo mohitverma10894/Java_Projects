@@ -4,9 +4,11 @@ class Test03ArrayObject {
 long[] Num= {};
 	public static void main(String[]args){
 
-//two ways to crete array object
+//two ways to create array object
 	int [] a1= new int[5];
 		System.out.println(a1.length);
+	int [] a3= {1,3,4,5,6};
+		System.out.println(a3.length);
 	int a2[] =new int[] {1,2,3,4,5,6,7,8,9};
 		System.out.println(a2.length);
 //you can't create an array object without specifying their value
